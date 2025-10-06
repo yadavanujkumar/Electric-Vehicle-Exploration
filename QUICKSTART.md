@@ -13,6 +13,8 @@ A complete, production-ready analysis featuring:
 - Business insights and findings
 - Clean, well-documented code
 - Ready to run end-to-end
+- **NEW: Machine learning models for prediction**
+- **NEW: Price optimization recommendations**
 
 ### 📊 Key Analyses Included
 
@@ -25,6 +27,8 @@ A complete, production-ready analysis featuring:
 7. **Developer Insights** - Top developers and publishers
 8. **Correlation Studies** - Relationships between variables
 9. **Advanced Insights** - Genre vs price, reviews vs ratings, and more
+10. **Machine Learning** - Game success prediction using Random Forest
+11. **Price Optimization** - Genre-specific pricing recommendations
 
 ## Quick Setup (3 Steps)
 
@@ -49,6 +53,8 @@ Click on `steam_games_analysis.ipynb` in the Jupyter interface
 - Statistical analysis methods
 - Feature engineering examples
 - Data storytelling techniques
+- **Machine learning model implementation**
+- **Predictive modeling with Random Forest**
 
 ### For Business Analysts
 - Market trend analysis
@@ -56,6 +62,8 @@ Click on `steam_games_analysis.ipynb` in the Jupyter interface
 - Customer engagement metrics
 - Competitive intelligence
 - Decision-making insights
+- **Data-driven price optimization**
+- **Genre-specific recommendations**
 
 ### For Game Developers
 - Genre popularity trends
@@ -63,6 +71,8 @@ Click on `steam_games_analysis.ipynb` in the Jupyter interface
 - Platform strategy insights
 - Review and rating patterns
 - Achievement implementation trends
+- **Success prediction factors**
+- **Optimal pricing strategies**
 
 ## Sample Insights Discovered
 
@@ -73,6 +83,9 @@ Click on `steam_games_analysis.ipynb` in the Jupyter interface
 ✅ **User satisfaction** averages around 75% positive reviews  
 ✅ **Multi-platform** support is increasingly common  
 ✅ **Achievement systems** are present in 40% of games  
+✅ **NEW: ML model achieves ~60% accuracy** in predicting game success  
+✅ **NEW: Review count is the strongest** success predictor  
+✅ **NEW: Optimal price range** is $4.99-$17.99 for success  
 
 ## Running the Analysis
 
