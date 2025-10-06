@@ -43,6 +43,17 @@ The main analysis is contained in `steam_games_analysis.ipynb`, which includes:
 - User engagement metrics
 - Pricing strategies
 
+### 6. Machine Learning for Game Success Prediction
+- Feature engineering for predictive modeling
+- Random Forest classifier implementation
+- Model evaluation and performance metrics
+- Feature importance analysis
+
+### 7. Price Optimization Analysis
+- Price vs success rate analysis
+- Genre-specific pricing recommendations
+- Optimal pricing strategies
+
 ## Visualizations
 The notebook includes 20+ professional visualizations using matplotlib and seaborn:
 - Pie charts for categorical distributions
@@ -107,10 +118,12 @@ This analysis demonstrates:
 5. ✅ Insight generation and business intelligence
 6. ✅ Professional data presentation
 
-## Potential Extensions
-- Machine learning models for game success prediction
+## Implemented Extensions
+- ✅ **Machine learning models for game success prediction** - Random Forest classifier to predict game success based on features
+- ✅ **Price optimization analysis** - Genre-specific pricing recommendations and optimal price range analysis
+
+## Potential Future Extensions
 - Recommendation system based on genres and features
-- Price optimization analysis
 - Sentiment analysis on reviews
 - Time series forecasting for releases
 - Market segmentation analysis

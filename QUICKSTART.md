@@ -25,6 +25,8 @@ A complete, production-ready analysis featuring:
 7. **Developer Insights** - Top developers and publishers
 8. **Correlation Studies** - Relationships between variables
 9. **Advanced Insights** - Genre vs price, reviews vs ratings, and more
+10. **Machine Learning** - Game success prediction using Random Forest
+11. **Price Optimization** - Genre-specific pricing recommendations
 
 ## Quick Setup (3 Steps)
 
